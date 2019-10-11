@@ -1,0 +1,6 @@
+apple
+strawberry
+pineapple
+kiwi
+banana
+coconut
